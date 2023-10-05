@@ -1,0 +1,33 @@
+.caja{
+    background-color: #49e;
+height: 100px;
+width: 100px;
+border: 1px solid #000;
+position: relative;
+background-position: center;
+}
+#caja1{
+    background-color: #08D7FF;
+    position: relative;
+
+
+}
+#caja2{
+background-color: green;
+position: relative;
+top: 200px;
+
+
+}
+#caja3{
+background-color: #F70;
+position: relative;
+background-position: left;
+bottom: 20px;
+left: 70px;
+}
+#caja4{
+background-color: #000;
+position: relative;
+top: 100px; 
+}

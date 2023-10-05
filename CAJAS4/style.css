@@ -1,0 +1,32 @@
+.caja{
+    background-color: #49e;
+height: 100px;
+width: 100px;
+border: 1px solid #000;
+position: relative;
+}
+
+#cajaj1{
+    background-color: red;
+    
+    position: relative;
+    left: 50%;
+}
+#cajaj2{
+    background-color: blue;
+    position: relative;
+    left: 0%;
+    top: 350px;
+}
+#cajaj3{
+    background-color: black;
+    position: relative;
+    left: 50%;
+    top: 1000px;
+}
+#cajaj4{
+    background-color: yellow ;
+    position: relative;
+    left: 2000px;
+    top: 150px;
+}
